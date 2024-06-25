@@ -6,8 +6,8 @@ It`s joke command
 
 ## how to use
 ```
-npm install
-npm run dev
+npm ci
+npm run start
 ```
 
 ## how to stop
