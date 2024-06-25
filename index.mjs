@@ -12,7 +12,7 @@ const rundLog = () => {
 }
 
 const getTemplate = () => {
-  const index = Math.floor(Math.random() * (LOG_TEMPLATES.length - 1));
+  const index = Math.floor(Math.random() * (LOG_TEMPLATES.length));
   return LOG_TEMPLATES[index];
 }
 
